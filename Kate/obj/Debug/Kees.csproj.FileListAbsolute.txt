@@ -1,0 +1,6 @@
+D:\Documents\Jarvis\Jarvis\bin\Debug\Jarvis.exe.config
+D:\Documents\Jarvis\Jarvis\bin\Debug\Jarvis.exe
+D:\Documents\Jarvis\Jarvis\obj\Debug\Kees.csprojResolveAssemblyReference.cache
+D:\Documents\Jarvis\Jarvis\obj\Debug\Jarvis.exe
+D:\Documents\Jarvis\Jarvis\obj\Debug\Jarvis.pdb
+D:\Documents\Jarvis\Jarvis\bin\Debug\Jarvis.pdb
